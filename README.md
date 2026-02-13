@@ -32,4 +32,5 @@ Senior Data Engineer | 14+ years of enterprise experience | Azure, Databricks, P
 ---
 
 ## Connect
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
+- [LinkedIn](https://www.linkedin.com/in/parameshwarsangangiri/)
+- [Certificates](https://www.credly.com/users/parameshwar-sangangiri.afde7118)
