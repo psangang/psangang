@@ -7,8 +7,8 @@ Senior Data Engineer | 14+ years of enterprise experience | Azure, Databricks, P
 ---
 
 ## Skills
-- **Data Engineering:** Azure, Databricks, ADF, PySpark, SQL, Python  
-- **Analytics & BI:** Tableau, Redshift, dbt  
+- **Data Engineering:** Azure, Databricks, ADF, Fabric PySpark, SQL, Python  
+- **Analytics & BI:** Tableau, PowerBI, Tibco, Redshift, dbt  
 - **AI & GenAI:** Generative AI, LLMs, prompt engineering, AI-driven pipelines  
 - **Data Governance & Quality:** Enterprise data pipelines, role-level security, batch & incremental processing  
 
