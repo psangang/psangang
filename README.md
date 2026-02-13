@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Parameshwar 👋
 
 Senior Data Engineer | 14+ years of enterprise experience | Azure, Databricks, PySpark, SQL, Python | Exploring Generative AI & LLM workflows
